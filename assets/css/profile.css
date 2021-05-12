@@ -1,0 +1,34 @@
+body{padding-top:30px;}
+
+.glyphicon {  margin-bottom: 10px;margin-right: 10px;}
+
+small {
+    display: block;
+    line-height: 1.428571429;
+    color: #999;
+}
+
+.container #home-btn {
+    color: black;
+    font-size: 20px;
+}
+.container #edit-btn {
+    color: white;
+    font-size: 20px;
+}
+
+#userInfo #registrationForm .infoDetail {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+#userInfo #registrationForm input {
+    font-size: 15px;
+}
+#userInfo #registrationForm label h4,
+#userInfo #registrationForm p.userInfoValue {
+    font-size: 20px;
+}
+#userInfo #registrationForm p.userInfoValue {
+    margin-left: 10px;
+}
